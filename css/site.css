@@ -1,0 +1,76 @@
+html {
+    margin:0;
+    padding:0;
+
+}
+body {
+    margin:0;
+    padding:0;
+    font-family:arial;
+    background-color:#9EAED3;
+}
+header {
+    background-color:#000000;
+    padding:5px 10px;
+}
+h1 {
+    text-align:center;
+    color:#fff;
+    margin:0;
+    padding:0;
+}
+h2 {
+    color:#C1C1C1;
+    text-align:center;
+}
+.menu {
+    background-color:#122A5B;
+}
+.menu a {
+    color:#E5E3E3;
+    text-decoration:none;
+    padding:10px 20px;
+    display:block;
+    float: left;
+}
+.menu a:hover {
+    background-color:#15336D;
+}
+section {
+    text-align:center;
+}
+section nav {
+    text-align:right;
+}
+
+footer {
+    text-align:center;
+    width: 100%;
+    background-color: #111;
+    padding: 10px;
+    margin-top: 10px;
+    margin:0px;
+}
+footer p {
+    margin:0px;
+    color:#fff;
+}
+.clear {
+	clear:both;
+}
+.gallery-container {
+    background-color:#F5F7ED;
+    width:50%;
+    margin:15px auto;
+    padding:10px;
+}
+.gallery-container img {
+    width:50%;
+    margin:10px;
+}
+.botao-maroto {
+    background-color:#C1C1C1;
+    color:#000000;
+    text-decoration:none;
+    padding:5px 20px;
+}
